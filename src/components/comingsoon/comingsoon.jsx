@@ -17,7 +17,7 @@ const ComingSoon = () => {
           <img src="/bcgc.png" alt="ma-amma" className="p-8 h-96" />
         </div>
         <h1 className="text-3xl text-center font-bold typewriter">
-          We are Launching Soon!
+          This website is under construction!
         </h1>
         <style jsx>{`
           .typewriter {
